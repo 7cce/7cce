@@ -10,8 +10,7 @@
 ### ![Connect](https://img.shields.io/badge/Connect_with_me-0056D2?style=for-the-badge&logo=links&logoColor=white)
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/3x_n)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/lll2le)
-- [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@y2y_)
+  
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/7cce)
 
 ---
