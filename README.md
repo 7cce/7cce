@@ -60,16 +60,5 @@
   </a>
 </p>
 
----
 
-<a href="https://github.com/7cce/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7cce&layout=compact&langs_count=15&card_width=100"/>
-</a>
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7cce" alt="7cce" /></a> </p>
-</p>
-
----
 
