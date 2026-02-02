@@ -4,7 +4,6 @@
 
 ### ![Country](https://img.shields.io/badge/Country-Iraq-yellow?style=for-the-badge&logo=flag-for-iraq&logoColor=white)
 
-### ![CITY](https://img.shields.io/badge/City-Babylon-blue?style=for-the-badge&logo=flag-for-Babylon&logoColor=red)
 ---
 
 
