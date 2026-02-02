@@ -73,5 +73,3 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7cce&show_icons=true&locale=en" alt="7cce" /></p>
-
